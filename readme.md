@@ -5,3 +5,6 @@
 
 # Sites currently scraped from:
 - Monster
+
+# Functionality
+- Search for jobs using keyword and location
